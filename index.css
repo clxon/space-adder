@@ -1,0 +1,32 @@
+﻿.center {
+    text-align: center;
+}
+
+.bkcolor {
+    background-color: orange;
+}
+
+.white {
+    background-color: white;
+}
+
+.around {
+    margin: 0 auto;
+    text-align: center;
+    width: 50em;
+    height: 60em;
+    border: solid 0.5em black;
+}
+
+.message {
+    font-size: large;
+}
+
+.long {
+    width: 30em;
+    height: 1.6em;
+}
+
+#result {
+    color: gold;
+}
